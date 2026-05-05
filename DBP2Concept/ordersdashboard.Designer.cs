@@ -49,12 +49,13 @@
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(540, 268);
             dataGridView1.TabIndex = 27;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // button1
             // 
             button1.BackColor = Color.Black;
             button1.FlatStyle = FlatStyle.Popup;
-            button1.Font = new Font("Geologica", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.White;
             button1.Location = new Point(29, 237);
             button1.Name = "button1";
@@ -62,13 +63,13 @@
             button1.TabIndex = 29;
             button1.Text = "Return Product";
             button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            button1.Click += returnProduct;
             // 
             // button4
             // 
             button4.BackColor = Color.Black;
             button4.FlatStyle = FlatStyle.Popup;
-            button4.Font = new Font("Geologica", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.Font = new Font("Microsoft Sans Serif", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button4.ForeColor = Color.White;
             button4.Location = new Point(1, -1);
             button4.Name = "button4";
@@ -76,6 +77,7 @@
             button4.TabIndex = 32;
             button4.Text = "←";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += goBack;
             // 
             // pictureBox2
             // 
@@ -90,11 +92,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Geologica ExtraLight", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Italic, GraphicsUnit.Point, 0);
             label1.Location = new Point(20, 170);
             label1.Name = "label1";
             label1.RightToLeft = RightToLeft.Yes;
-            label1.Size = new Size(100, 27);
+            label1.Size = new Size(96, 20);
             label1.TabIndex = 34;
             label1.Text = "Search here";
             // 
@@ -102,7 +104,7 @@
             // 
             button5.BackColor = Color.Black;
             button5.FlatStyle = FlatStyle.Popup;
-            button5.Font = new Font("Geologica", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button5.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button5.ForeColor = Color.White;
             button5.Location = new Point(155, 196);
             button5.Name = "button5";
@@ -110,6 +112,7 @@
             button5.TabIndex = 36;
             button5.Text = "→";
             button5.UseVisualStyleBackColor = false;
+            button5.Click += searchReturns;
             // 
             // textBox1
             // 
@@ -117,6 +120,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(129, 23);
             textBox1.TabIndex = 35;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // ordersdashboard
             // 

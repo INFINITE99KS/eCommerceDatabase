@@ -41,6 +41,7 @@
             radioButton2 = new RadioButton();
             radioButton1 = new RadioButton();
             label4 = new Label();
+            button4 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             groupBox1.SuspendLayout();
@@ -48,7 +49,7 @@
             // 
             // label1
             // 
-            label1.Font = new Font("Geologica SemiBold", 25F, FontStyle.Bold);
+            label1.Font = new Font("Microsoft Sans Serif", 25F, FontStyle.Bold);
             label1.Location = new Point(343, 112);
             label1.Name = "label1";
             label1.Size = new Size(445, 64);
@@ -61,7 +62,7 @@
             // 
             button1.BackColor = Color.Black;
             button1.FlatStyle = FlatStyle.Popup;
-            button1.Font = new Font("Geologica", 10F, FontStyle.Bold);
+            button1.Font = new Font("Microsoft Sans Serif", 10F, FontStyle.Bold);
             button1.ForeColor = Color.White;
             button1.Location = new Point(608, 323);
             button1.Name = "button1";
@@ -99,6 +100,7 @@
             maskedTextBox1.Name = "maskedTextBox1";
             maskedTextBox1.Size = new Size(350, 23);
             maskedTextBox1.TabIndex = 10;
+            maskedTextBox1.MaskInputRejected += maskedTextBox1_MaskInputRejected;
             // 
             // maskedTextBox2
             // 
@@ -111,10 +113,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Geologica Medium", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.Location = new Point(237, 188);
             label2.Name = "label2";
-            label2.Size = new Size(118, 33);
+            label2.Size = new Size(105, 24);
             label2.TabIndex = 12;
             label2.Text = "Username";
             label2.Click += label2_Click;
@@ -122,10 +124,10 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Geologica Medium", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(237, 227);
             label3.Name = "label3";
-            label3.Size = new Size(71, 33);
+            label3.Size = new Size(62, 24);
             label3.TabIndex = 16;
             label3.Text = "Email";
             label3.Click += label3_Click;
@@ -136,6 +138,8 @@
             maskedTextBox3.Name = "maskedTextBox3";
             maskedTextBox3.Size = new Size(350, 23);
             maskedTextBox3.TabIndex = 15;
+            maskedTextBox3.UseSystemPasswordChar = true;
+            maskedTextBox3.MaskInputRejected += maskedTextBox3_MaskInputRejected;
             // 
             // groupBox1
             // 
@@ -147,6 +151,7 @@
             groupBox1.TabIndex = 17;
             groupBox1.TabStop = false;
             groupBox1.Text = "Role";
+            groupBox1.Enter += groupBox1_Enter;
             // 
             // radioButton2
             // 
@@ -173,12 +178,27 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Geologica Medium", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.Location = new Point(237, 266);
             label4.Name = "label4";
-            label4.Size = new Size(113, 33);
+            label4.Size = new Size(100, 24);
             label4.TabIndex = 18;
             label4.Text = "Password";
+            // 
+            // button4
+            // 
+            button4.BackColor = Color.Black;
+            button4.FlatStyle = FlatStyle.Popup;
+            button4.Font = new Font("Microsoft Sans Serif", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = Color.White;
+            button4.Location = new Point(166, -3);
+            button4.Name = "button4";
+            button4.Size = new Size(112, 93);
+            button4.TabIndex = 29;
+            button4.Text = "←";
+            button4.UseMnemonic = false;
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // FormRegister
             // 
@@ -186,6 +206,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label4);
             Controls.Add(groupBox1);
             Controls.Add(label3);
@@ -224,5 +245,6 @@
         private RadioButton radioButton2;
         private RadioButton radioButton1;
         private Label label4;
+        private Button button4;
     }
 }

@@ -33,7 +33,7 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
-            textBox1 = new TextBox();
+            searchBox = new TextBox();
             button5 = new Button();
             button4 = new Button();
             pictureBox2 = new PictureBox();
@@ -77,6 +77,7 @@
             button1.TabIndex = 21;
             button1.Text = "Order Product";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -90,6 +91,7 @@
             button2.TabIndex = 22;
             button2.Text = "View Orders";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -105,12 +107,12 @@
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
-            // textBox1
+            // searchBox
             // 
-            textBox1.Location = new Point(572, 165);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(129, 23);
-            textBox1.TabIndex = 27;
+            searchBox.Location = new Point(572, 165);
+            searchBox.Name = "searchBox";
+            searchBox.Size = new Size(129, 23);
+            searchBox.TabIndex = 27;
             // 
             // button5
             // 
@@ -124,6 +126,7 @@
             button5.TabIndex = 28;
             button5.Text = "→";
             button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
             // 
             // button4
             // 
@@ -156,7 +159,7 @@
             BackColor = Color.White;
             ClientSize = new Size(769, 416);
             Controls.Add(button5);
-            Controls.Add(textBox1);
+            Controls.Add(searchBox);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -186,5 +189,6 @@
         private Button button5;
         private Button button4;
         private PictureBox pictureBox2;
+        private TextBox searchBox;
     }
 }
