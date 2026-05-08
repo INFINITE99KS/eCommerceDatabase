@@ -22,12 +22,20 @@ namespace DBP2Concept
             try
             {
                 con.Open();
-                string query = @"SELECT O.OrderID, O.OrderDate, O.CustomerID, O.ShipperID, O.ProductID, P.ProductName, 
-                         CASE WHEN R.ReturnDate IS NULL THEN 'Not Returned' ELSE 'Returned' END AS Status 
-                         FROM Orders O 
-                         INNER JOIN Products P ON O.ProductID = P.ProductID 
-                         LEFT JOIN Returns R ON O.OrderID = R.OrderID";
-                SqlDataAdapter adapter = new SqlDataAdapter(query, con);
+                SqlCommand cmd = new SqlCommand(@"SELECT 
+                                   O.OrderID, 
+                                   O.OrderDate, 
+                                   O.CustomerID, 
+                                   O.ShipperID, 
+                                   O.ProductID, 
+                                   P.ProductName, 
+                                    CASE WHEN R.ReturnDate IS NULL THEN 'Not Returned' ELSE 'Returned' END AS Status 
+                                   FROM Orders O 
+                                   INNER JOIN Products P ON O.ProductID = P.ProductID 
+                                   LEFT JOIN Returns R ON O.OrderID = R.OrderID
+                                   WHERE O.CustomerID = @CustomerID", con);
+                cmd.Parameters.AddWithValue("@CustomerID", CustomerID);
+                SqlDataAdapter adapter = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dataGridView1.DataSource = dt;
@@ -100,15 +108,18 @@ namespace DBP2Concept
             {
                 con.Open();
                 string query = @"SELECT O.OrderID, O.OrderDate, C.CustomerName, O.ShipperID, O.ProductID, P.ProductName, 
-                         CASE WHEN R.ReturnDate IS NULL THEN 'Not Returned' ELSE 'Returned' END AS Status 
-                         FROM Orders O 
-                         JOIN Customers C ON O.CustomerID = C.CustomerID 
-                         JOIN Products P ON O.ProductID = P.ProductID 
-                         LEFT JOIN Returns R ON O.OrderID = R.OrderID 
-                         WHERE CAST(O.OrderID AS VARCHAR) LIKE @search 
-                            OR C.CustomerName LIKE @search 
-                            OR P.ProductName LIKE @search";
+                 CASE WHEN R.ReturnDate IS NULL THEN 'Not Returned' ELSE 'Returned' END AS Status 
+                 FROM Orders O 
+                 JOIN Customers C ON O.CustomerID = C.CustomerID 
+                 JOIN Products P ON O.ProductID = P.ProductID 
+                 LEFT JOIN Returns R ON O.OrderID = R.OrderID 
+                 WHERE O.CustomerID = @CustomerID -- Add this line!
+                 AND (CAST(O.OrderID AS VARCHAR) LIKE @search 
+                    OR C.CustomerName LIKE @search 
+                    OR P.ProductName LIKE @search)";
+
                 SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@CustomerID", this.CustomerID); // Bind the logged-in ID
                 cmd.Parameters.AddWithValue("@search", "%" + textBox1.Text + "%");
 
                 SqlDataAdapter adapter = new SqlDataAdapter(cmd);

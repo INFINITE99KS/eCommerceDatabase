@@ -16,7 +16,6 @@ namespace DBP2Concept
             InitializeComponent();
         }
 
-        // تم تغيير الاسم هنا ليتوافق مع الـ Designer
         private void Form1_Load(object sender, EventArgs e)
         {
             RefreshData();

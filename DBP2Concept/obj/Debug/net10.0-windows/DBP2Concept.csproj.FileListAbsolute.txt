@@ -1,0 +1,173 @@
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.exe
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.deps.json
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.runtimeconfig.json
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.Properties.Resources.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.GenerateResource.cache
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfoInputs.cache
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfo.cs
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.CoreCompileInputs.cache
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\refint\DBP2Concept.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.genruntimeconfig.cache
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\ref\DBP2Concept.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormLogin.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormRegister.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormWelcome.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.SellerDashboard.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.exe
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.deps.json
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.runtimeconfig.json
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormLogin.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormRegister.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormWelcome.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.Properties.Resources.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.SellerDashboard.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.GenerateResource.cache
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfoInputs.cache
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfo.cs
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.CoreCompileInputs.cache
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\refint\DBP2Concept.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.genruntimeconfig.cache
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\ref\DBP2Concept.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.customerdashboard.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.ordersdashboard.resources
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.AssemblyReference.cache
+C:\Users\Zeyad\Desktop\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Conc.B8DD02B2.Up2Date
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.exe
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.deps.json
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.runtimeconfig.json
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.pdb
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.AssemblyReference.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.customerdashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormLogin.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormRegister.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormWelcome.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.ordersdashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.Properties.Resources.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.SellerDashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.GenerateResource.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfoInputs.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfo.cs
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.CoreCompileInputs.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Conc.B8DD02B2.Up2Date
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\refint\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.pdb
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.genruntimeconfig.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\ref\DBP2Concept.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.AssemblyReference.cache
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.customerdashboard.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.ordersdashboard.resources
+C:\Users\Infinite\source\repos\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Conc.B8DD02B2.Up2Date
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.AssemblyReference.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.customerdashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormLogin.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormRegister.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormWelcome.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.ordersdashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.Properties.Resources.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.SellerDashboard.resources
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.GenerateResource.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfoInputs.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfo.cs
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.CoreCompileInputs.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\refint\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.pdb
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.exe
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.deps.json
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.runtimeconfig.json
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.pdb
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Conc.B8DD02B2.Up2Date
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.genruntimeconfig.cache
+D:\Games\gg\Semester 6\DataBase Systems\Project and Assignment\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\ref\DBP2Concept.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.exe
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.deps.json
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.runtimeconfig.json
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.AssemblyReference.cache
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.customerdashboard.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormLogin.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormRegister.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.FormWelcome.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.ordersdashboard.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.Properties.Resources.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.SellerDashboard.resources
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.GenerateResource.cache
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfoInputs.cache
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.AssemblyInfo.cs
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.csproj.CoreCompileInputs.cache
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Conc.B8DD02B2.Up2Date
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\refint\DBP2Concept.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.pdb
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\DBP2Concept.genruntimeconfig.cache
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\obj\Debug\net10.0-windows\ref\DBP2Concept.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\System.Runtime.Caching.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Infinite\Downloads\Compressed\drive-download-20260508T174146Z-3-001\DBP2Concept\DBP2Concept\bin\Debug\net10.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
